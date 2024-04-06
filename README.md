@@ -1,6 +1,8 @@
 
 Hi 👋 My name is Oleg Pisakin
-=============================Soft Developer and researcher-----------------------------* ✉️  You can contact me at [pisakin@gmail.com](mailto:pisakin@gmail.com)
+=============================Soft Developer and researcher-----------------------------*
+
+✉️  You can contact me at [pisakin@gmail.com](mailto:pisakin@gmail.com)
 
 ### Skills
 
