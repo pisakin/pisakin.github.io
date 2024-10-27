@@ -14,11 +14,10 @@ Hi 👋 My name is Oleg Pisakin
 
 ### Others Links
 
-Web of Science ResearcherID: LKK-1435-2024 
-ORCID — <a href="https://orcid.org/0009-0001-8243-9345" />ORCID ID</a>
-AuthorID: 1262605
-
-SPIN-код: 9103-4297 
+<p>Web of Science ResearcherID: LKK-1435-2024 </p>
+<p>ORCID — <a href="https://orcid.org/0009-0001-8243-9345" />ORCID ID</a>  </p>
+<p>AuthorID: 1262605 </p>
+<p>SPIN-код: 9103-4297 </p>
 
 ### Badges
 
